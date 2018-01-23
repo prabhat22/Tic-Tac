@@ -1,0 +1,46 @@
+.btn{
+    width:150px;
+    height:150px;
+    left:50%;
+    background-color: black;
+    border: 1px solid white;
+    color:aqua;
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color:darkred;
+}
+#again{
+    width: 173px;
+    height: 81px;
+    color: black;
+    font-size: 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    display: none;
+
+}
+.pa{
+    display: block !important;
+}
+#section_1{
+   
+    
+    display: block;
+    top: 31%;
+    left:9%;
+position: absolute;
+}
+.trans{
+   
+  
+   
+     transition: 2s;
+    font-size: 50px;
+    color: brown;
+    font-family: cursive;
+}
